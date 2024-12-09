@@ -1,0 +1,3 @@
+C:/Nikhar149/opencv_doc_scanner/android/OpenCV/.cxx/Debug/3n1n5u5k/armeabi-v7a/CMakeFiles/opencv_jni_shared.dir
+C:/Nikhar149/opencv_doc_scanner/android/OpenCV/.cxx/Debug/3n1n5u5k/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Nikhar149/opencv_doc_scanner/android/OpenCV/.cxx/Debug/3n1n5u5k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
